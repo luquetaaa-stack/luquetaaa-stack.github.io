@@ -1,0 +1,67 @@
+@font-face {
+    font-family: idroid;
+    src: url(idroid.otf);
+}
+
+*{
+    font-family: idroid;
+}
+
+.Header{
+width: auto;
+border: 1px black solid;
+background-color:green ;
+}
+
+.Nav{
+width: auto;
+border: 1px black solid;
+background-color: rgba(19, 19, 19, 0.267);
+}
+
+.Main{
+width: auto;
+height: 2520px;
+border: 1px black solid;
+background-color: rgb(138, 255, 191);
+}
+
+.Article{
+    border: 1px black solid;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 2520px;
+    background-color: white;
+}
+
+.img1{
+    width: 100%;
+}
+
+.img2{
+    width: 100%;
+}
+
+.img3{
+    width: 100%;
+}
+
+.video1{
+    width: 100%;
+}
+
+.Nav2{
+    width: 99.5%;
+    background-color: rgb(39, 105, 39);
+    border: 1px black solid;
+}
+
+.Article2{
+    height: 82.4%;
+    width: 72%;
+    border: 1px black solid;
+    position: absolute;
+    top: 207%;
+    background-color:  rgba(138, 255, 191, 0.349) ;
+}
