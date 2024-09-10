@@ -21,7 +21,7 @@ background-color: rgba(19, 19, 19, 0.267);
 
 .Main{
 width: auto;
-height: 2520px;
+height: 2900px;
 border: 1px black solid;
 background-color: rgb(138, 255, 191);
 }
@@ -31,7 +31,7 @@ background-color: rgb(138, 255, 191);
     width: 75%;
     margin-left: auto;
     margin-right: auto;
-    height: 2520px;
+    height: 2900px;
     background-color: white;
 }
 
